@@ -37,5 +37,5 @@ Welcome to my GitHub profile! I am a BSE(Hons) undergraduate student at the Open
 
 ### 🤝 Connect with me:
 
-- LinkedIn: [Your LinkedIn URL](https://linkedin.com/in/dilantha-rukshan)
+- LinkedIn: [ LinkedIn Profile ](https://linkedin.com/in/dilantha-rukshan)
 
