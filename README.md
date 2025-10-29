@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a BSE(Hons) undergraduate student at the Open
 
 ### 🔧 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,laravel,php,react,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,laravel,php,flutter,&perline=3)](https://skillicons.dev)
 
 ---
 
