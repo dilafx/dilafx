@@ -35,7 +35,7 @@ I am a passionate developer with an intermediate foundation in **PHP** and **Lar
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,laravel,php,js,html,css,mysql,git,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=flutter,nextjs,laravel,php,js,nodejs,expressjs,react,mongodb,mysql,git,vscode&perline=9" />
   </a>
 </div>
 
