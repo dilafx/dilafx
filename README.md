@@ -41,14 +41,11 @@ I am a passionate developer with an intermediate foundation in **PHP** and **Lar
 
 ---
 
+
 ### 📈 GitHub Stats & Languages
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dilafx&show_icons=true&theme=radical&count_private=true" height="180" alt="dilafx's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilafx&layout=compact&theme=radical&hide=html,css" height="180" alt="dilafx's Top Languages" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilafx&theme=radical" height="180" alt="dilafx's GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilafx&layout=compact&theme=radical&hide=html,css&cache_seconds=1800" height="180" alt="dilafx's Top Languages" />
 </div>
 
 ---
